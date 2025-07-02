@@ -1,0 +1,6 @@
+{
+  "name": "InstaTag Hashtag Generator",
+  "description": "An application that generates relevant Instagram hashtags based on user-provided post content, presented in a simulated Android app interface.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
